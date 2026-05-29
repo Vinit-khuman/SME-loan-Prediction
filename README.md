@@ -315,11 +315,7 @@ Rejected loans outnumber accepted 12:1. Rejected data was **randomly sampled at 
 
 ## 👤 Author
 
-**Prit Mayani**
-- GitHub: [@Prit2341](https://github.com/Prit2341)
-- LinkedIn: [Prit Mayani](https://www.linkedin.com/in/prit-mayani-a35b371b9/)
-
----
+**Vinit Khuman**
 
 ## 🙏 Acknowledgments
 
